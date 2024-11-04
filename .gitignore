@@ -4,6 +4,8 @@
 *.pyc
 __pycache__
 db.sqlite3
+static
+project/local_settings.py
 
 # Backup files # 
 *.bak 
